@@ -50,7 +50,7 @@ The program follows a straightforward execution cycle:
 ### Output Screen
 Below is a sample output of the calculator running in the terminal:
 
-![Calculator Output](./output%20screen.png)
+![Calculator Output](./output_screen.PNG)
 
 ### ▶️ Getting Started (How to Run)
 
