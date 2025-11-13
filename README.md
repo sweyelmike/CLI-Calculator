@@ -47,6 +47,11 @@ The program follows a straightforward execution cycle:
 
 -----
 
+### Output Screen
+Below is a sample output of the calculator running in the terminal:
+
+![Calculator Output](./output%20screen.png)
+
 ### ▶️ Getting Started (How to Run)
 
 To run this calculator on your local machine, follow these steps:
